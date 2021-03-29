@@ -18,7 +18,7 @@ def im():
                       </head>
                        <body>
                          <h1>Жди нас, Марс!</h1>
-                         <img src="MARS.png" alt="здесь должна была быть картинка, но не нашлась">
+                         <img src="MARS-2.png" alt="здесь должна была быть картинка, но не нашлась">
                          <div class="alert alert-primary" role="alert"> Человечество вырастает из детства. </div>
                          <div class="alert alert-primary" role="alert"> Человечеству мала одна планета. </div>
                          <div class="alert alert-primary" role="alert"> 'Мы сделаем обитаемыми безжизненные пока планеты.'</div>
